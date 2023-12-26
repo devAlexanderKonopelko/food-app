@@ -14,6 +14,6 @@
 * Kotlin Coroutines
 * Hilt
 * Retrofit
-* Moshi
+* GSON
 * JUnit5
 * MockK
