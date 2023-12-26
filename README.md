@@ -2,11 +2,13 @@
 
 - Food search
 
+## Stack
+
 ### Architecture
 * Clean architecture
 * MVI
 
-### Stack
+### Technologies
 * Kotlin
 * Jetpack Compose
 * Kotlin Coroutines
