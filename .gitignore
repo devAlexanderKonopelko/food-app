@@ -1,6 +1,6 @@
 # Gradle files
 .gradle/
-build/
+app/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -18,6 +18,9 @@ output.json
 # IntelliJ
 *.iml
 .idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
 
 # Keystore files
 *.jks
