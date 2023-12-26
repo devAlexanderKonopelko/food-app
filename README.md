@@ -2,12 +2,11 @@
 
 - Food search
 
-## Stack
-
 ### Architecture
 * Clean architecture
 * MVI
 
+### Stack
 * Kotlin
 * Jetpack Compose
 * Kotlin Coroutines
