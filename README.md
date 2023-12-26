@@ -1,5 +1,7 @@
 ## Features
 
+- Food search
+
 ## Stack
 
 ### Architecture
